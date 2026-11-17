@@ -64,7 +64,7 @@ I'm looking for an internship in IT where I can work with real infrastructure an
 
 ### Roadmap
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64c372d8e244f2be6a48813a?variant=dark&roadmaps=devops%2Cpython%2Ccpp)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64c372d8e244f2be6a48813a?variant=dark)](https://roadmap.sh)
 
 </td>
 </tr>
