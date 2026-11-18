@@ -28,8 +28,6 @@ I enjoy keeping my configuration clean and documented.
 - Learning **DevOps**: Linux servers, Docker and automation
 - Building small projects and publishing them here
 
-I'm looking for an internship in IT where I can work with real infrastructure and learn from experienced people.
-
 <img width="100%" src="assets/divider.svg" alt=""/>
 
 <table width="100%">
