@@ -58,7 +58,7 @@ I enjoy keeping my configuration clean and documented.
 
 ### ROADMAP
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64c372d8e244f2be6a48813a?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64c372d8e244f2be6a48813a?variant=dark&roadmaps=python%2Cdevops%2Ccpp%2Clinux)](https://roadmap.sh)
 
 </td>
 </tr>
